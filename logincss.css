@@ -1,0 +1,85 @@
+.border{
+    border-style: solid;
+    width: 11cm;
+    height: 9cm;
+    border-width: 1;
+    position: absolute;
+    top: 26%;
+    left: 35%;
+    border-color: rgb(223, 223, 223);
+    border-radius: 1.5em;
+    box-shadow: 0px 11px 35px 2px rgba(0, 0, 0, 0.14);
+    background-color: whitesmoke;
+}
+.inputusername{
+    margin-left: 28%;
+    margin-bottom: 1cm;
+    width: 4.5cm;
+    height: 35px;
+    border-radius: 1.2em;
+    box-shadow: 0px 11px 35px 2px rgba(0, 0, 0, 0.14);
+    width: 76%;
+    color: rgb(38, 50, 56);
+    font-size: 700;
+    font-size: 14px;
+    letter-spacing: 1px;
+    outline: none;
+    border-color: #4e4e4e;
+    background: #ebf6ec;
+    padding: 10px 20px;
+    margin-bottom: 50px;
+    margin-top: 0.8cm;
+    margin-left: 46px;
+    text-align: center;
+    margin-bottom: 27px;
+}.password{
+    margin-left: 28%;
+    margin-bottom: 1cm;
+    width: 4.5cm;
+    height: 35px;
+    border-radius: 1.2em;
+    box-shadow: 0px 11px 35px 2px rgba(0, 0, 0, 0.14);
+    width: 76%;
+    color: rgb(38, 50, 56);
+    font-size: 700;
+    font-size: 14px;
+    letter-spacing: 1px;
+    background: #ebf6ec;
+    padding: 10px 20px;
+    border-color: #4e4e4e;
+    outline: none;
+    margin-bottom: 50px;
+    margin-left: 46px;
+    text-align: center;
+    margin-bottom: 27px;
+}
+.singin {
+    cursor: pointer;
+    border-radius: 5em;
+    color: #fff;
+    background: linear-gradient(to right, #9C27B0, #E040FB);
+    border: 0;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    font-family: 'Ubuntu', sans-serif;
+    margin-left: 35%;
+    font-size: 13px;
+    margin-bottom: 0.5cm;
+    box-shadow: 0 0 20px 1px rgba(0, 0, 0, 0.04);
+}
+.myh2{
+   color:blueviolet;
+   text-align: center;
+}
+.forgot{
+    color: rgb(253, 192, 253);
+    font-size: 20px;
+    background-color: whitesmoke;
+    text-shadow: 0px 0px 3px rgb(117 117 117 / 12%);
+    border: none;
+    
+    margin-left: 32%;
+    
+}
